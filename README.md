@@ -11,11 +11,12 @@ http://qim.fs.quoracdn.net/quora_duplicate_questions.tsv
 # Description :
 The architecture of the system is described in the paper cited in the reference, and its schema is depicted 
 in figure 1. The system will be tested only for English, even if the paper is also concerned with Arabic.
-Figure 1: General architecture of the MaLSTM model
+![LSTM](https://github.com/S130339419/Questions-Similarity-with-Siamese-Neural-Networks/assets/141457934/26d1c831-a4d3-4c3f-bf1e-fc202a23d0e4)
+
 This project is based on the implementation of work performed by the authors of the paper cited in the 
 reference, but you can extend it with your personal ideas.
-Deliverable
+# Deliverable :
 Code repository: Jupyter notebook including in plus of the code explanations about your methods and 
 algorithms.
-Reference
-Manhattan Siamese LSTM for Question Retrieval in Community Question Answerin
+# Reference :
+[Manhattan Siamese LSTM for Question Retrieval in Community Question Answering](https://link.springer.com/chapter/10.1007/978-3-030-33246-4_41)https://link.springer.com/chapter/10.1007/978-3-030-33246-4_41
